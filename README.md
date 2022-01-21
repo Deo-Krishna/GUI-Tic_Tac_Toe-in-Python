@@ -6,7 +6,7 @@
   This project has two files because of restart button.
 
 ### for example-
-  If you open the "file 1" and press its restart button then it will close the file one and start file two, and vice versa.
+  If you open the "file 1" and press its restart button then it will close the "file 1" and start "file 2", and vice versa.
   
 # Important note - 
 So you are requested to download the file, extract it, rename the folder with your choice of name and then enjoy the game.
